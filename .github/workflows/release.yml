@@ -28,9 +28,6 @@ jobs:
       - name: Install dependencies
         run: yarn install
 
-      - name: Build package
-        run: yarn build
-
       - name: Ensure main is present for commit message prep
         run: |
           git checkout main
