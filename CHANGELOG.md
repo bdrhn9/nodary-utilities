@@ -5,6 +5,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - BERA/USD
   - demETH/ETH Exchange Rate
   - HYPE/USD
@@ -36,6 +37,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - inwstETHs/wstETH Exchange Rate
   - LBTC/USD
 
@@ -51,6 +53,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - AUSD/USD
   - BRETT/USD
   - cbBTC/USD
@@ -74,6 +77,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - EURC/USD
   - instETH/stETH Exchange Rate
   - ZK/USD
@@ -84,6 +88,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - agETH/rsETH Exchange Rate
   - ankrETH/ETH Exchange Rate
   - POL/USD
@@ -94,6 +99,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - CFX/USD
   - RENDER/USD
 
@@ -102,6 +108,7 @@
 ### Minor Changes
 
 - Activate following feed:
+
   - inETH/ETH Exchange Rate
 
 ## 3.8.0
@@ -109,6 +116,7 @@
 ### Minor Changes
 
 - Activate following feed:
+
   - BLAST/USD
 
 ## 3.7.0
@@ -116,9 +124,11 @@
 ### Minor Changes
 
 - Activate following feed:
+
   - LYX/USD
 
 - Activate following chain:
+
   - lukso
 
 ## 3.6.0
@@ -126,6 +136,7 @@
 ### Minor Changes
 
 - Activate following feed:
+
   - weETHs/ETH Exchange Rate
 
 ## 3.5.0
@@ -133,6 +144,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - HKD/USD
   - NOK/USD
   - TAIKO/USD
@@ -143,6 +155,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - BNBx/BNB Exchange Rate
   - ETHFI/USD
   - SAFE/USD
@@ -154,6 +167,7 @@
 ### Minor Changes
 
 - Activate following chain:
+
   - oev-network
 
 ## 3.2.0
@@ -161,6 +175,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - CORE/USD
   - DEGEN/USD
   - ENA/USD
@@ -172,6 +187,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - INJ/USD
   - MODE/USD
   - NEON/USD
@@ -184,6 +200,7 @@
 ### Major Changes
 
 - Retire following feeds:
+
   - AAPL/USD
   - AMD/USD
   - AMZN/USD
@@ -262,6 +279,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - AERO/USD
   - ERN/USD
   - JUICE/USD
@@ -273,6 +291,7 @@
 ### Minor Changes
 
 - Activate following chains:
+
   - arbitrum-sepolia-testnet
   - base-sepolia-testnet
   - optimism-sepolia-testnet
@@ -283,6 +302,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - mpETH/ETH Exchange Rate
   - PENDLE/USD
   - USDB/USD
@@ -292,6 +312,7 @@
 ### Major Changes
 
 - Retire following testnet chains:
+
   - arbitrum-goerli-testnet
   - base-goerli-testnet
   - linea-goerli-testnet
@@ -305,6 +326,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - AR/USD
   - AXL/USD
   - MANTA/USD
@@ -319,6 +341,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - ezETH/ETH Exchange Rate
   - sAVAX/AVAX Exchange Rate
   - sDAI/DAI Exchange Rate
@@ -331,6 +354,7 @@
 ### Minor Changes
 
 - Activate following chains:
+
   - blast-sepolia-testnet
   - oev-network-sepolia-testnet
 
@@ -339,6 +363,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - apxETH/pxETH Exchange Rate
   - DYM/USD
   - rsETH/ETH Exchange Rate
@@ -351,6 +376,7 @@
 ### Minor Changes
 
 - Activate following feed:
+
   - STONE/ETH Exchange Rate
 
 ## 1.3.0
@@ -358,6 +384,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - crvUSD/USD
   - EURe/USD
   - miMATIC/USD
@@ -372,6 +399,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - ASTR/USD
   - DIS/USD
   - HG/USD
@@ -383,6 +411,7 @@
 ### Minor Changes
 
 - Activate following chains:
+
   - arbitrum
   - arbitrum-goerli-testnet
   - avalanche
@@ -420,6 +449,7 @@
 ### Major Changes
 
 - Retire following feed:
+
   - BUSD/USD
 
 ## 0.12.0
@@ -427,6 +457,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - BABA/USD
   - ETHx/ETH Exchange Rate
   - MATICx/MATIC Exchange Rate
@@ -446,6 +477,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - CRVUSD/USD
   - EURE/USD
   - GHO/USD
@@ -458,6 +490,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - cbETH/ETH Exchange Rate
   - rETH/ETH Exchange Rate
   - sfrxETH/frxETH Exchange Rate
@@ -469,6 +502,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - KAVA/USD
   - MNT/USD
 
@@ -489,6 +523,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - AAPL/USD
   - AMZN/USD
   - ARKK/USD
@@ -513,6 +548,7 @@
 ### Minor Changes
 
 - Activate following feed:
+
   - RUB/USD
 
 ## 0.5.0
@@ -526,6 +562,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - OSMO/USD
   - PEPE/USD
   - SUI/USD
@@ -537,6 +574,7 @@
 ### Minor Changes
 
 - Activate following feeds:
+
   - APT/USD
   - ARB/USD
   - BAND/USD
