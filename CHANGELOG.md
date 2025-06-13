@@ -1,5 +1,15 @@
 # @bdrhn9/nodary-utilities
 
+## 5.2.0
+
+### Minor Changes
+
+- d75e760: test-release
+
+### Patch Changes
+
+- 615ec1d: prettier changelog
+
 ## 5.1.0
 
 ### Minor Changes
